@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "node-api-dotnet": "^0.4.34"
+    "node-api-dotnet": "^0.5.10"
+  },
+  "scripts": {
+    "start": "node main.js"
   }
 }
