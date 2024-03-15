@@ -5,5 +5,5 @@ application.
 
 ## Getting Started
 
-Install the dependencies for the Node.js application `npm install` and run
+Install the dependencies for the Node.js application `npm install`, `npm run build` and run
 `npm start`.
